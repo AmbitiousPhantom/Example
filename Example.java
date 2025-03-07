@@ -179,7 +179,7 @@ public class Example {
       System.out.println("And these numbers will be divided to type of responses, 1 to 10 can be sassy");
       System.out.println("11 to 20 can be smart");
       System.out.println("And 21 to 30 can be friendly/greetings. Now all of the inputs that you provided will ALLLLLL be added to this little ai");
-      System.out.println("Meaning it'll adapt some stuff that you type. Even if you type like a redditor.");
+      System.out.println("Meaning it'll adapt some stuff that you type. Depending how you type.");
       System.out.print("But it can also have some methods that help it do some stuff such as simple math hw and possibly genre recommendations");
     }
     else{
